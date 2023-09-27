@@ -18,7 +18,7 @@ Hacktoberfest is a month-long celebration sponsored by [Digital Ocean](https://h
 
 Here are three straightforward ways to contribute to this project:
 
-1. **Add Your Name:** Append your name to the `CONTRIBUTORS.md` file following this format:
+1. **Add Your Name:** Add your name to the `CONTRIBUTORS.md` file following this format:
 
    ```markdown
    #### Name: [YOUR NAME](GitHub link)
@@ -54,7 +54,9 @@ Here are three straightforward ways to contribute to this project:
 
    ### Profile Link
 
-   [Your Name](GitHub Link)
+   - GitHub - [Your Name](GitHub Link)
+   - LinkedIn - [Your Name](LinkedIn Link)
+   - Instagram - [Your Name](Instagram Link)
    ```
 
 3. **Craft a "Hello, World!" Script:** Contribute a `hello_world_yourusername.xx` script to the `scripts` directory in a language of your choice. Follow this template:
