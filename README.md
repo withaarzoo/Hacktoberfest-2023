@@ -79,7 +79,7 @@ Here are three straightforward ways to contribute to this project:
 2. **Clone your Fork:** Clone the forked repository to your local machine:
 
    ```markdown
-   git clone https://github.com/your-username/hacktoberfest.git
+   git clone https://github.com/Aarzoo75/Hacktoberfest-2023.git
    ```
 
 3. **Create a Branch:** Establish a new branch for your contributions:
